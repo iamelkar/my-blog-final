@@ -8,14 +8,6 @@ const Header = () => {
             <Link href='/' className="text-white text-2xl font-bold">
                 My Blogs
             </Link>
-
-            <ul className="flex space-x-4">
-                <li>
-                    <Link href='/blogs' className="text-white hover:underline">
-                        Blogs
-                    </Link>
-                </li>
-            </ul>
         </nav>
     </header>
     )
