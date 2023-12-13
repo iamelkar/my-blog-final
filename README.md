@@ -3,9 +3,12 @@
 # How To Setup
 
 Step 1. Open command line by pressing [Ctrl + `]. 
+
 Step 2. Type 'npm i' then press enter. (If opened in a new computer, you may skip this step if you already ran this previously.)
-Step 4. Type 'npm run dev' in the command line and press enter.
-Step 3. Run 'http://localhost:3000/' in your web browser.
+
+Step 3. Type 'npm run dev' in the command line and press enter.
+
+Step 4. Run 'http://localhost:3000/' in your web browser.
 
 Side Note:
 
